@@ -1,4 +1,3 @@
-# mj-protfolio-finale
 !DO  <h2>Frshr Technologies</h2>
         </div>
         <div class="desc">
